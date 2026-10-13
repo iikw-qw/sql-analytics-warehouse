@@ -1,0 +1,23 @@
+{
+  "tables": {
+    "customers": 1500,
+    "products": 60,
+    "orders": 5061,
+    "order_items": 12658
+  },
+  "queries": [
+    "01_monthly_revenue",
+    "02_top_customers",
+    "03_running_total_and_moving_average",
+    "04_repeat_purchase_rate",
+    "05_frequently_bought_together"
+  ],
+  "months_covered": 30,
+  "best_month": "2024-06",
+  "avg_repeat_rate_90d": 0.432,
+  "top_pair": [
+    "item_025",
+    "item_044",
+    17
+  ]
+}
